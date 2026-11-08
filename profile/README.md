@@ -22,6 +22,7 @@ Maintained by [@drfoxg](https://github.com/drfoxg) · [fiontech.ru](https://fion
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python)
 
 ## 📌 Избранные репозитории
+- [devops-cases](https://github.com/fiontech-ru/devops-cases) — разбор реального инцидента: недоступность Telegram Bot API из Docker, диагностика и решение
 - [docker-space](https://github.com/fiontech-ru/docker-space) — диагностика занятого места Docker (контейнеры, образы, логи)
 - [homelab](https://github.com/fiontech-ru/homelab) — конфигурация и сервисы домашней инфраструктуры (IaC, мониторинг)
 
